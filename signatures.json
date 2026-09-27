@@ -70,5 +70,14 @@
     "signed_at": "2026-09-26T11:56:21.746Z",
     "pull_request": 153,
     "evidence": "https://github.com/skopevoj/spoti.pw/pull/153"
+  },
+  {
+    "login": "ThrowTop",
+    "id": 119631357,
+    "cla": "1.0",
+    "via": "comment",
+    "signed_at": "2026-09-27T06:39:42Z",
+    "pull_request": 158,
+    "evidence": "https://github.com/skopevoj/spoti.pw/pull/158#issuecomment-5853463428"
   }
 ]
